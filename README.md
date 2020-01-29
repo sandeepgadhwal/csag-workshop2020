@@ -4,7 +4,7 @@ Resources for Handson session Deep Learning with ArcGIS at INTERNATIONAL WORKSHO
 
 
 Mr Rohit Singh, 
-ManagingDirector, R&D Center, ESRI 
+Managing Director, R&D Center, ESRI 
 
 & 
 
