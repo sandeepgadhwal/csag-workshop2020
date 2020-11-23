@@ -21,6 +21,7 @@ Resources:
 - GitHub Repo https://github.com/Esri/arcgis-python-api
 - Sample Notebooks https://developers.arcgis.com/python/sample-notebooks/
 - GeoAI blogs https://medium.com/geoai
+  
 Practical deep learning for coders:
 - https://course.fast.ai/
 
